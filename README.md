@@ -1,6 +1,6 @@
 # Bem-vindo ao SQL-All For One!
 
-O objetivo deste projeto foi colocar me prática meus conhecimentos em banco de dados. Nele foram aplicados os comandos que estudei em `MySQL` e para o desnevolvimento foi utilizado o banco de dados `Northwind`.
+O objetivo deste projeto foi colocar me prática meus conhecimentos em banco de dados. Nele foram aplicados os comandos que estudei em `MySQL` e para o desenvolvimento foi utilizado o banco de dados `Northwind`.
 
 
 #### As principais habilidades colocadas prática nesse projeto foram:
